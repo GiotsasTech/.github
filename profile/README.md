@@ -3,3 +3,6 @@
 All of our repos, projects are **here**!<br/>In the official GiotsasTech (@giotsastech) GitHub Account!<br/>
 Founder's profile accounts are:
 ![ngiotsas & vgiotsas](https://i.imgur.com/6Wi3AVk.png)
+note:
+The below user commit is [@ngiotsas](https://github.com/ngiotsas)
+![nick](https://i.imgur.com/kqhmq6C.png)
